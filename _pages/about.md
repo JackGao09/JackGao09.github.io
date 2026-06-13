@@ -18,8 +18,8 @@ profile:
     <p>Director, Evolvable AI</p>
     <p>Singapore</p>
 
-selected_papers: true  # includes papers marked as selected={true}
-social: true  # includes social icons at the bottom of the page
+selected_papers: true # includes papers marked as selected={true}
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true
